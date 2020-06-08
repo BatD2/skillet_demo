@@ -18,6 +18,7 @@ labels:
   collection:
     - MySkillets
     - PAN-OS
+    - myDemo
 
 # ---------------------------------------------------------------------
 # end of preamble section

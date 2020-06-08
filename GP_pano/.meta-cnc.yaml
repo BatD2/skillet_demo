@@ -11,7 +11,9 @@ type: panos
 # grouping of like snippets for dynamic menu creation in pan-cnc
 labels:
   service_type: globalprotect
-  collection: globalprotect
+  collection:
+    - globalprotect
+    - myDemo
 
 variables:
   - name: ca_cert_name
